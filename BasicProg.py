@@ -5,4 +5,4 @@ Spyder Editor
 This is a temporary script file.
 """
 String="Hello World"
-print ("%s" % String)
+print (String)
